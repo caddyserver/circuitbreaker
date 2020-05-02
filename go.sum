@@ -168,8 +168,8 @@ github.com/dgrijalva/jwt-go v3.2.0+incompatible/go.mod h1:E3ru+11k8xSBh+hMPgOLZm
 github.com/dgryski/go-farm v0.0.0-20190423205320-6a90982ecee2 h1:tdlZCpZ/P9DhczCTSixgIKmwPv6+wP5DGjqLYw5SUiA=
 github.com/dgryski/go-farm v0.0.0-20190423205320-6a90982ecee2/go.mod h1:SqUrOPUnsFjfmXRMNPybcSiG0BgUW2AuFH8PAnS2iTw=
 github.com/dgryski/go-sip13 v0.0.0-20181026042036-e10d5fee7954/go.mod h1:vAd38F8PWV+bWy6jNmig1y/TA+kYO4g3RSRF0IAv0no=
-github.com/diamondburned/oxy v1.1.1-0.20200502015114-e78a994a595f h1:HDXuxzwPmgrQUMhni8zC7RyMmjr+Llqv85UCyJNrgYQ=
-github.com/diamondburned/oxy v1.1.1-0.20200502015114-e78a994a595f/go.mod h1:PIbs3PuwO49pwu9DeZF78hwtllJmKBhS23dGdu4mV98=
+github.com/diamondburned/oxy v1.1.1-0.20200502024248-e47851599193 h1:ZrcuXEiD83jWtVCE+/h5kgHLfRMzZslwQ1DGen2TEcs=
+github.com/diamondburned/oxy v1.1.1-0.20200502024248-e47851599193/go.mod h1:vPIcNhVlsZmvoSi+Qk+d0usJ54ZKX1NJ8KX08I4V768=
 github.com/dimchansky/utfbom v1.1.0/go.mod h1:rO41eb7gLfo8SF1jd9F8HplJm1Fewwi4mQvIirEdv+8=
 github.com/dlclark/regexp2 v1.1.6/go.mod h1:2pZnwuY/m+8K6iRw6wQdMtk+rH5tNGR1i55kozfMjCc=
 github.com/dlclark/regexp2 v1.2.0/go.mod h1:2pZnwuY/m+8K6iRw6wQdMtk+rH5tNGR1i55kozfMjCc=
